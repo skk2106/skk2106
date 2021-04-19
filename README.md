@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @skk2106
+- 👋 Hi, I’m Soham Kulkarni
 - 👀 I’m interested in Data Science,AWS/GCP,BigData
 - 🌱 I’m currently learning AI/ML
 - 📫 Contact me here.
