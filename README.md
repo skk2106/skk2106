@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Soham Kulkarni
-- 👀 I’m interested in Data Science,AWS/GCP,BigData
+- 👀 I’m an aspiring Data Scientist
 - 🌱 I’m currently learning AI/ML
 - 📫 Contact me on sohamkk2106@gmail.com
 
